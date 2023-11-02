@@ -3,7 +3,7 @@
 this is just a stimulator of calling jadoo inspired by movie "Koi mil gaya"
 
 Here are somescreenshots :
- ![image](https://github.com/developerrahulofficial/calling-jadoo/assets/83329806/5feccada-a2e9-4092-b084-c03bbf85a5af)
+ ![ss2](https://github.com/Ombhabal/calling-jadoo/assets/143935443/d8e54bb8-0781-47e4-94cc-4c23a2e6fb4e)
 
 
 When you press keys : 
