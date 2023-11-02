@@ -1,4 +1,4 @@
-![image](https://github.com/developerrahulofficial/calling-jadoo/assets/83329806/9a3ff736-371d-4934-98eb-39a0a8bc6556)# calling-jadoo
+![image](https://github.com/Ombhabal/calling-jadoo/blob/main/assets/ss1.png)# calling-jadoo
 
 this is just a stimulator of calling jadoo inspired by movie "Koi mil gaya"
 
